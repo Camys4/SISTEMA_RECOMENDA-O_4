@@ -68,6 +68,8 @@ O processo se repete até que a lista esteja completamente ordenada.
 Execução
 Quando você executar o código, verá a lista original e a lista ordenada impressas no console.
 
+FERNANDO IREI DEIXAR OS COMMITS PORQUE APARECEU SOMENTE 2 PARA EXCLUIR, NÃO SEI O QUE HOUVE, CHORO CHORO. MAS PELO MENOS EU TENTEI/VALORIZE!
+
 
 
 
